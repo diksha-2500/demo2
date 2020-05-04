@@ -2,22 +2,32 @@
 
 
 /*******/
-*{font-family:inherit}body{background-color:black}
+*{font-family:inherit}body{background-color:black; margin: 5px;}
 a{color:#fff;text-decoration:none}
 .king h1{text-align:center;margin-top:10px;background-color:#ff0;color:#000}.king-heading h2{text-align:center;margin-top:10px;background-color:#0095ff;border:2px solid #fff;padding:7px;color:#fff;font-size:26px!important}
 .pages{width:100%;text-align:center}.pages a{text-decoration:none;text-align:center;color:#fff}.pages td{padding:8px 5px;text-align:center;background-color:red;border:2px solid #000}
-.drag{background-color:#0c62ad;text-align:center;text-shadow:1px 1px blue;font-size:20px;border:2px solid lime}.drag h2{margin-top:4px;margin-bottom:4px;color:#f5eeee}.drag a{color:#fff;font-size:25px}
+.drag{background-color: #980cad;
+  text-align: center;
+  text-shadow: 1px 1px blue;
+  font-size: 20px;
+  border: 2px solid #171917;
+  margin: 8px;
+  border-radius: 19px;
+color: white;}
+.drag a{
+  color: white;
+}
 .style1{text-align:center;background-color:#fff;width:100%;padding-top:7px}.style1-heading{font-weight:700;color:#000;font-size:20px}
 .liveresult{color:green;font-size:34px;font-weight:700}
 .livegame{color:#f08;font-size:34px;font-weight:700}
 .headkey{
-      background-color: #99ffff;
-    color: #ff4da6;
-    font-size: 10px;
-    font-weight: bold;
-    text-align: center;
-    font-family: Verdana, sans-serif;
-    margin-bottom: 35px;
+  background-color: black;
+  color: #ca9ed2;
+  font-size: 10px;
+  font-weight: bold;
+  text-align: center;
+  font-family: Verdana, sans-serif;
+  margin-bottom: 35px;
 }
 .top_1{
       color: #000;
@@ -105,7 +115,7 @@ color: #000;
 }
 .content{
   background-color: #e4611b;
-  color: #000;
+  color: white;
   font-weight: 700;
   font-style: bold;
   font-size: large;
@@ -121,6 +131,9 @@ color: #000;
 .content p{
       font-size: 15px;
     text-align: justify;
+}
+.content a{
+  color: red;
 }
 .content h3{
       color: red;
@@ -138,7 +151,7 @@ color: #000;
 .quicklink a{
       box-sizing: border-box;
 text-decoration: none;
-    background-color: #ff0;
+    background-color: #ff00c8;
     border-radius: 10px;
     border-color: red;
     padding: 9px;
@@ -163,7 +176,7 @@ text-decoration: none;
 .footer-pages td{
       padding: 8px 5px;
     text-align: center;
-    background-color: #c2160d;
+    background-color:#6807a5;
     border: 2px solid #fff;
 }
 .table-bordered {
