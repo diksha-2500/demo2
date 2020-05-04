@@ -2,17 +2,17 @@
 
 
 /*******/
-*{font-family:inherit}body{background-color:#fff}
+*{font-family:inherit}body{background-color:black}
 a{color:#fff;text-decoration:none}
 .king h1{text-align:center;margin-top:10px;background-color:#ff0;color:#000}.king-heading h2{text-align:center;margin-top:10px;background-color:#0095ff;border:2px solid #fff;padding:7px;color:#fff;font-size:26px!important}
-.pages{width:100%;text-align:center}.pages a{text-decoration:none;text-align:center;color:#fff}.pages td{padding:8px 5px;text-align:center;background-color:#ff5e00;border:2px solid #000}
+.pages{width:100%;text-align:center}.pages a{text-decoration:none;text-align:center;color:#fff}.pages td{padding:8px 5px;text-align:center;background-color:red;border:2px solid #000}
 .drag{background-color:#0c62ad;text-align:center;text-shadow:1px 1px blue;font-size:20px;border:2px solid lime}.drag h2{margin-top:4px;margin-bottom:4px;color:#f5eeee}.drag a{color:#fff;font-size:25px}
 .style1{text-align:center;background-color:#fff;width:100%;padding-top:7px}.style1-heading{font-weight:700;color:#000;font-size:20px}
 .liveresult{color:green;font-size:34px;font-weight:700}
 .livegame{color:#f08;font-size:34px;font-weight:700}
 .headkey{
-      background-color: white;
-    color: red;
+      background-color: #99ffff;
+    color: #ff4da6;
     font-size: 10px;
     font-weight: bold;
     text-align: center;
@@ -21,7 +21,7 @@ a{color:#fff;text-decoration:none}
 }
 .top_1{
       color: #000;
-    background: #fee93b;
+    background: #ff0;
     padding: 1% 0;
     margin: 0px 2px;
     border-radius: 5px 5px 0 0;
@@ -104,19 +104,19 @@ color: #000;
     box-shadow: 0px 1px 3px 0px #bfbfbf;
 }
 .content{
-      background-color: #fff;
-    color: #000;
-    font-weight: 700;
-    font-style: bold;
-    font-size: large;
-    text-decoration: none;
-    border-width: 3px;
-    border-color: #0008ff;
-    border-style: outset;
-    margin: 3px;
-    padding: 10px;
-    border-radius: 10px;
-    text-align: center;
+  background-color: #e4611b;
+  color: #000;
+  font-weight: 700;
+  font-style: bold;
+  font-size: large;
+  text-decoration: none;
+  border-width: 3px;
+  border-color: #0a0a0a;
+  border-style: outset;
+  margin: 13px;
+  padding: 10px;
+  border-radius: 47px;
+  text-align: center;
 }
 .content p{
       font-size: 15px;
