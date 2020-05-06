@@ -205,7 +205,7 @@ text-decoration: none;
     border-color: inherit;
 }
 .table-bordered>tr>th, .table-bordered>tr>td, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>tbody>tr>td, .table-bordered>tfoot>tr>td{
-  border: 1px solid #ddd;
+  border: 1px solid #123ee2;;
   padding: 8px;
     line-height: 1.42857143;
     vertical-align: top;
