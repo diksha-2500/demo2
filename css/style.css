@@ -4,7 +4,7 @@
 /*******/
 *{font-family:inherit}body{background-color:black; margin: 5px;}
 a{color:#fff;text-decoration:none}
-.king h1{text-align:center;margin-top:10px;background-color:#ff0;color:#000}.king-heading h2{text-align:center;margin-top:10px;background-color:#0095ff;border:2px solid #fff;padding:7px;color:#fff;font-size:26px!important}
+
 .pages{width:100%;text-align:center}.pages a{text-decoration:none;text-align:center;color:#fff}.pages td{padding:8px 5px;text-align:center;background-color:red;border:2px solid #000}
 .drag{background-color: #980cad;
   text-align: center;
@@ -49,8 +49,8 @@ color: white;}
     background: #fff;
     border-spacing: 0;
     border-collapse: collapse;
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
   color: red;
     text-align: center;
 }
@@ -206,7 +206,7 @@ text-decoration: none;
 }
 .table-bordered>tr>th, .table-bordered>tr>td, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>tbody>tr>td, .table-bordered>tfoot>tr>td{
   border: 1px solid #123ee2;;
-  padding: 8px;
+  padding: 0px;
     line-height: 1.42857143;
     vertical-align: top;
 }
@@ -234,3 +234,24 @@ text-decoration: none;
   background-color: #00d5ff;
 }
 
+#logo-heading{
+  display: flex;
+  margin: 0px 0.2rem;
+}
+#logo-heading .box{
+margin: 2px;
+background-color: #ff0;
+justify-content: center;
+  vertical-align: center;
+}
+#logo-heading img{
+  height: 150px;
+  display: block;
+  margin:0px;
+width: 100%;
+}
+.king{
+  font-size: 3rem;
+  font-weight: bolder;
+  text-align:center;margin:auto;background-color:#ff0;color:#000
+}
