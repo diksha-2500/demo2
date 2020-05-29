@@ -5,8 +5,8 @@
 *{font-family:inherit}body{background-color:black; margin: 5px;}
 a{color:#fff;text-decoration:none}
 
-.pages{width:100%;text-align:center}.pages a{text-decoration:none;text-align:center;color:#fff}.pages td{padding:8px 5px;text-align:center;background-color:red;border:2px solid #000}
-.drag{background-color: #980cad;
+.pages{width:100%;text-align:center}.pages a{text-decoration:none;text-align:center;color:black}.pages td{padding:8px 5px;text-align:center;background-color:#ff0;border:2px solid #000}
+.drag{background-color: #c11919;
   text-align: center;
   text-shadow: 1px 1px blue;
   font-size: 20px;
@@ -22,7 +22,7 @@ color: white;}
 .livegame{color:#f08;font-size:34px;font-weight:700}
 .headkey{
   background-color: black;
-  color: #ca9ed2;
+  color: #d29eb1;
   font-size: 10px;
   font-weight: bold;
   text-align: center;
@@ -236,22 +236,23 @@ text-decoration: none;
 
 #logo-heading{
   display: flex;
-  margin: 0px 0.2rem;
+  margin: 0.5rem 2rem;
 }
 #logo-heading .box{
-margin: 2px;
-background-color: #ff0;
+margin: auto;
+background-color: black;
 justify-content: center;
   vertical-align: center;
+  height: 6rem;
 }
 #logo-heading img{
-  height: 150px;
+  height: 6rem;
   display: block;
   margin:0px;
 width: 100%;
 }
 .king{
-  font-size: 3rem;
+  font-size: 1.8rem;
   font-weight: bolder;
-  text-align:center;margin:auto;background-color:#ff0;color:#000
+  text-align:center;margin:auto;background-color:black;color:white;
 }
